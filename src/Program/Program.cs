@@ -9,7 +9,6 @@
     }
 
 }
-<<<<<<< HEAD
 
 // Esta clase implementa la operación resta.
 public class Subtraction
@@ -26,7 +25,7 @@ public class Division
    public static double Divide(int a, int b)
    {
        return (double)a / b;
-=======
+
 // Esta clase implementa la operación suma
 public class Addition
 {
