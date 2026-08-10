@@ -9,8 +9,7 @@
     }
 }
 
-
-
+// Esta clase implementa la operación multiplicación de dos números enteros
 public class Multiplication
 {
    public static int Multiply(int a, int b)
@@ -19,10 +18,3 @@ public class Multiplication
    }
 }
 
-public class Power
-{
-    public static int Squared(int a)
-    {
-        return a * a;
-    }
-}
