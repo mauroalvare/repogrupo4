@@ -7,6 +7,7 @@
         Console.WriteLine(Multiplication.Multiply(5, 6));
         Console.WriteLine(Division.Divide(7, 8));
     }
+
 }
 
 // Esta clase implementa la operación resta.
@@ -15,5 +16,33 @@ public class Subtraction
    public static int Subtract(int a, int b)
    {
        return a - b;
+   }
+}
+
+// Esta clase implementa la operación división.
+public class Division
+{
+   public static double Divide(int a, int b)
+   {
+       return (double)a / b;
+       }
+}
+
+// Esta clase implementa la operación suma
+public class Addition
+{
+   public static int Add(int a, int b)
+   {
+       return a + b;
+   }
+}
+
+// Esta clase implementa la operación multiplicación
+
+public class Multiplication
+{
+   public static int Multiply(int a, int b)
+   {
+       return a * b;
    }
 }
