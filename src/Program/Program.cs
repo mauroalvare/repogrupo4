@@ -9,7 +9,8 @@
     }
 }
 
-// Esta clase implementa la operación multiplicación de dos números enteros
+// Esta clase implementa la operación multiplicación
+
 public class Multiplication
 {
    public static int Multiply(int a, int b)
